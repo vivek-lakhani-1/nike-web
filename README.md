@@ -27,4 +27,4 @@
 ## Contribution
 
 Feel free to fork this repository and contribute your own ideas and improvements! Pull requests are always welcome.
-**Let's elevate your footwear game with this dynamic and stylish Nike landing page!**.
+**Let's elevate your footwear game with this dynamic and stylish Nike landing page!**
